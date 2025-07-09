@@ -3,6 +3,7 @@
 
 # Below are the outputs when Section-3-computations.sage
 # is run with k=9 and 1 <= i <= 4.
+# Timing data is only suggestive.
 
 
 # Output of code for k=9, i=1
