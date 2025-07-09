@@ -1,3 +1,5 @@
+# This is Sage code.
+
 # We want to time our computations.
 # The timings are merely suggestive,
 # giving a rough idea of how long
