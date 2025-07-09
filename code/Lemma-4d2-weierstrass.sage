@@ -1,3 +1,5 @@
+# This is Sage code.
+
 # Reset all the variables, just in case
 reset()
 
