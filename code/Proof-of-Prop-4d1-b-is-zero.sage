@@ -69,7 +69,7 @@ for m in T2.monomials():
         flag *= 0
 print("The coefficient of 1 is:")
 print(c2)
-# y = -258*f^3 + 420*f^2*g + 1545*f*g^2 - 1290*g^3 + 1545*f^2*h - 7740*f*g*h + 2100*g^2*h
+# -y = -258*f^3 + 420*f^2*g + 1545*f*g^2 - 1290*g^3 + 1545*f^2*h - 7740*f*g*h + 2100*g^2*h
 #     + 2100*f*h^2 + 7725*g*h^2 - 6450*h^3
 
 print("Check if every term is divisible by 3.")
