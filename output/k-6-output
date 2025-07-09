@@ -1,0 +1,59 @@
+# k = 6
+# Need to check 1 <= i <= 2
+
+# Below are the outputs when Section-3-computations.sage
+# is run with k=6 and 1 <= i <= 2.
+
+
+# Output of code for k=6, i=1
+We're working with k=6 and i=1
+-----
+Building first two coefficients
+Time elapsed: 0.0013446807861328125
+Working on extending to j=2
+Number of w's so far: 27
+Time elapsed: 0.0021936893463134766
+Working on extending to j=3
+Number of w's so far: 200
+Time elapsed: 0.00386810302734375
+Working on extending to j=4
+Number of w's so far: 700
+Time elapsed: 0.015992164611816406
+Extending to last coefficient
+Number of w's so far: 2592
+Time elapsed: 0.07354450225830078
+Number of coefficient vectors to consider: 150
+Trying to eliminate with rank zero curves
+Time elapsed: 0.14351344108581543
+This vector does not pass the rank zero check:
+[1, 0, 1, 1, 1, 1]
+This vector does not pass the rank zero check:
+[50, 0, 36, 1, 1, 15]
+Finished!
+Total time elapsed: 0.14844250679016113
+
+
+# Output of code for k=6, i=2
+We're working with k=6 and i=2
+-----
+Building first two coefficients
+Time elapsed: 0.0010366439819335938
+Working on extending to j=2
+Number of w's so far: 125
+Time elapsed: 0.0013761520385742188
+Working on extending to j=3
+Number of w's so far: 125
+Time elapsed: 0.002002239227294922
+Working on extending to j=4
+Number of w's so far: 700
+Time elapsed: 0.009077787399291992
+Extending to last coefficient
+Number of w's so far: 2160
+Time elapsed: 0.0650179386138916
+Number of coefficient vectors to consider: 150
+Trying to eliminate with rank zero curves
+Time elapsed: 0.12340807914733887
+This vector does not pass the rank zero check:
+[1, 1, 0, 1, 1, 1]
+Finished!
+Total time elapsed: 0.12814545631408691
