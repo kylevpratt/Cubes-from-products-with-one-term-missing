@@ -1,3 +1,5 @@
+# This is Sage code.
+
 # This is the list in Lemma 2.3
 rkzerocoeffs = [1, 3, 4, 5, 10, 14, 18, 21, 25, 36, 45, 60, 100, 147, 
                 150, 175, 196, 225, 245, 252, 300, 315, 350, 882, 980, 
