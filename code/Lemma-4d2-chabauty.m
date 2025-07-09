@@ -1,3 +1,5 @@
+/* This is Magma code. */
+
 /* 
 We set the seed so we get the same outputs every time
 */
