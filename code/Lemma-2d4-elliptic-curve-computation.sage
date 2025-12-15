@@ -1,3 +1,5 @@
+#This is Sage code.
+
 #This is the elliptic curve we need for Lemma 2.4
 # Check that the elliptic curve related
 # to the ternary cubic equation
