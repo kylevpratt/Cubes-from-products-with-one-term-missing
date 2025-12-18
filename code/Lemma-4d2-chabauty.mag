@@ -52,7 +52,11 @@ phi := map< E->P1 | [d1*Y, d2*Y+d3*Z] >;
 Calculate the Mordell-Weil group of E.
 This takes several minutes.
 */
-G,GtoEK,flag1,flag2 := MordellWeilGroup(E);
+time G,GtoEK,flag1,flag2 := MordellWeilGroup(E);
+/*
+Time: 516.266
+Timing data is only suggestive
+*/
 G; GtoEK; flag1; flag2;
 
 
