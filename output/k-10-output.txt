@@ -10,149 +10,149 @@
 We're working with k=10 and i=1
 -----
 Building first two coefficients
-Time elapsed: 0.0007944107055664062
+Time elapsed: 0.001176595687866211
 Working on extending to j=2
 Number of w's so far: 81
-Time elapsed: 0.0009677410125732422
+Time elapsed: 0.0018112659454345703
 Working on extending to j=3
 Number of w's so far: 1000
-Time elapsed: 0.009224653244018555
+Time elapsed: 0.009313821792602539
 Working on extending to j=4
 Number of w's so far: 4900
-Time elapsed: 0.1742231845855713
+Time elapsed: 0.17315244674682617
 Working on extending to j=5
 Number of w's so far: 23328
-Time elapsed: 1.3040893077850342
+Time elapsed: 1.2810518741607666
 Working on extending to j=6
 Number of w's so far: 75922
-Time elapsed: 8.364721775054932
+Time elapsed: 8.183883666992188
 Working on extending to j=7
 Number of w's so far: 380016
-Time elapsed: 37.48992872238159
+Time elapsed: 36.045027017593384
 Working on extending to j=8
 Number of w's so far: 989604
-Time elapsed: 204.39963626861572
+Time elapsed: 201.27280950546265
 Extending to last coefficient
 Number of w's so far: 4042480
-Time elapsed: 708.4296689033508
+Time elapsed: 703.6067552566528
 Number of coefficient vectors to consider: 81405
 Trying to eliminate with rank zero curves
-Time elapsed: 828.7212054729462
+Time elapsed: 823.5296058654785
 This vector does not pass the rank zero check:
 [1, 0, 1, 1, 1, 1, 1, 1, 1, 1]
 Finished!
-Total time elapsed: 831.6592764854431
+Total time elapsed: 831.0222826004028
 
 
 # Output of code for k=10, i=2
 We're working with k=10 and i=2
 -----
 Building first two coefficients
-Time elapsed: 0.0005397796630859375
+Time elapsed: 0.0013778209686279297
 Working on extending to j=2
 Number of w's so far: 625
-Time elapsed: 0.0021822452545166016
+Time elapsed: 0.0033321380615234375
 Working on extending to j=3
 Number of w's so far: 625
-Time elapsed: 0.1991586685180664
+Time elapsed: 0.003774881362915039
 Working on extending to j=4
 Number of w's so far: 4900
-Time elapsed: 0.300612211227417
+Time elapsed: 0.10769295692443848
 Working on extending to j=5
 Number of w's so far: 19440
-Time elapsed: 1.451221227645874
+Time elapsed: 1.223475694656372
 Working on extending to j=6
 Number of w's so far: 78540
-Time elapsed: 7.514401912689209
+Time elapsed: 7.109963417053223
 Working on extending to j=7
 Number of w's so far: 308009
-Time elapsed: 36.788389921188354
+Time elapsed: 36.17884278297424
 Working on extending to j=8
 Number of w's so far: 1193346
-Time elapsed: 173.153475522995
+Time elapsed: 171.76415157318115
 Extending to last coefficient
 Number of w's so far: 3218436
-Time elapsed: 785.0876839160919
+Time elapsed: 770.8716259002686
 Number of coefficient vectors to consider: 83835
 Trying to eliminate with rank zero curves
-Time elapsed: 881.8373234272003
+Time elapsed: 865.9148504734039
 This vector does not pass the rank zero check:
 [1, 1, 0, 1, 1, 1, 1, 1, 1, 1]
 Finished!
-Total time elapsed: 884.80131483078
+Total time elapsed: 873.2952330112457
 
 
 # Output of code for k=10, i=3
 We're working with k=10 and i=3
 -----
 Building first two coefficients
-Time elapsed: 0.0005397796630859375
+Time elapsed: 0.0013370513916015625
 Working on extending to j=2
 Number of w's so far: 625
-Time elapsed: 0.0023365020751953125
+Time elapsed: 0.002954721450805664
 Working on extending to j=3
 Number of w's so far: 3430
-Time elapsed: 0.10395145416259766
+Time elapsed: 0.10345721244812012
 Working on extending to j=4
 Number of w's so far: 3430
-Time elapsed: 0.10551166534423828
+Time elapsed: 0.10455083847045898
 Working on extending to j=5
 Number of w's so far: 23328
-Time elapsed: 0.9129610061645508
+Time elapsed: 0.897153377532959
 Working on extending to j=6
 Number of w's so far: 78540
-Time elapsed: 8.05268907546997
+Time elapsed: 7.9134910106658936
 Working on extending to j=7
 Number of w's so far: 347776
-Time elapsed: 37.816930532455444
+Time elapsed: 36.77867007255554
 Working on extending to j=8
 Number of w's so far: 1130976
-Time elapsed: 192.62051558494568
+Time elapsed: 188.73134565353394
 Extending to last coefficient
 Number of w's so far: 4648852
-Time elapsed: 776.2708597183228
+Time elapsed: 761.5457510948181
 Number of coefficient vectors to consider: 95634
 Trying to eliminate with rank zero curves
-Time elapsed: 915.5505709648132
+Time elapsed: 898.6320068836212
 This vector does not pass the rank zero check:
 [1, 1, 1, 0, 1, 1, 1, 1, 1, 1]
 Finished!
-Total time elapsed: 918.6823074817657
+Total time elapsed: 906.7186951637268
 
 
 # Output of code for k=10, i=4
 We're working with k=10 and i=4
 -----
 Building first two coefficients
-Time elapsed: 0.0004096031188964844
+Time elapsed: 0.0017883777618408203
 Working on extending to j=2
 Number of w's so far: 625
-Time elapsed: 0.0021119117736816406
+Time elapsed: 0.0034782886505126953
 Working on extending to j=3
 Number of w's so far: 3430
-Time elapsed: 0.31064438819885254
+Time elapsed: 0.10536861419677734
 Working on extending to j=4
 Number of w's so far: 14580
-Time elapsed: 1.0909526348114014
+Time elapsed: 0.8758363723754883
 Working on extending to j=5
 Number of w's so far: 14580
-Time elapsed: 1.0971999168395996
+Time elapsed: 0.8799948692321777
 Working on extending to j=6
 Number of w's so far: 75922
-Time elapsed: 5.62427544593811
+Time elapsed: 5.280667543411255
 Working on extending to j=7
 Number of w's so far: 308009
-Time elapsed: 33.78281545639038
+Time elapsed: 34.182666301727295
 Working on extending to j=8
 Number of w's so far: 1130976
-Time elapsed: 169.89378476142883
+Time elapsed: 174.22622561454773
 Extending to last coefficient
 Number of w's so far: 3405702
-Time elapsed: 744.4123179912567
+Time elapsed: 752.0769717693329
 Number of coefficient vectors to consider: 113967
 Trying to eliminate with rank zero curves
-Time elapsed: 846.0012228488922
+Time elapsed: 852.1029136180878
 This vector does not pass the rank zero check:
 [1, 1, 1, 1, 0, 1, 1, 1, 1, 1]
 Finished!
-Total time elapsed: 849.717259645462
+Total time elapsed: 861.6750199794769
