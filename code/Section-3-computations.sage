@@ -120,8 +120,8 @@ def Extend_vec(vec,j):
 	    # gcd checks, add [vec,c] to the list of possible
 	    # extensions of vec.
             if cflag == 1:
-		veccopy = vec.copy()
-		veccopy.append(c)
+				veccopy = vec.copy()
+				veccopy.append(c)
                 vecstoreturn.append(veccopy)
         return vecstoreturn
 
